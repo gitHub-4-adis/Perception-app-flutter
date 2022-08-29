@@ -1,4 +1,4 @@
-# quotes
+# Perception - mini content consuming app
 
 A new Flutter project.
 
